@@ -91,7 +91,7 @@ setup(
         # Service related
         # NOTE: Dash is pinned so to avoid dependency hell.
         "plotly>=3.8.1",
-        "dash==0.39.0",
+        "dash==2.15.0",
         "dash-core-components==0.44.0",
         "dash-cytoscape==0.1.1",
         "dash-html-components==0.14.0",
